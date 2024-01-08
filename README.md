@@ -1,1 +1,1 @@
-# rust_2d_platformer
+# Platformer because I wanna learn Rust
